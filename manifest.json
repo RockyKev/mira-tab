@@ -2,7 +2,7 @@
  "manifest_version": 2,
  "name": "Mirasee NewTabs",
  "description": "New Day, new you, the Mirasee way. For changes and what's on the roadmap. ",
- "version": "0.24",
+ "version": "0.26",
  "author": "Rocky Kev",
  
  "incognito": "split",
